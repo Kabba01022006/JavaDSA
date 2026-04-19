@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class _27_NumberTriangleVerticallyFlipped {
     public static void main(String[] args) {
-        //   *
-//          **
-//         ***
-//        ****
+        //   1
+//          12
+//         123
+//        1234
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows : ");
         int n = sc.nextInt();

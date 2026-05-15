@@ -5,11 +5,12 @@ public class _01_builtIn {
         double _sqrt = Math.sqrt(4);
         double _cbrt = Math.cbrt(8); // cuberoot
         //int x = Math.sqrt(4); ->This is wrong.
-        //double data type is necessary for using sqrt and cbrt method.
+        //double data type is necessary for using sqrt and cbrt method. ***IMPP
         double _pi = Math.PI;
         int _abs = Math.abs(-5); // gives absolute value.
         double _floor = Math.floor(6.9); // this gives the floor value or we can say Greatest Integer Function , (***TO THE LEFT***)
         double _ceil = Math.ceil(6.7); // this gives the ceil value (***TO THE RIGHT***)
+//        for the standard Math.max() and Math.min() methods in Java. They are                   overloaded to handle only two arguments of the same type: int, long, float, or               double.
         int _minimum = Math.min(5,9);
         int _maximum = Math.max(5,9);
         // we can give int , long , float , double values here too , if we used mixed , then the smaller data type will get converted into the bigger data type.

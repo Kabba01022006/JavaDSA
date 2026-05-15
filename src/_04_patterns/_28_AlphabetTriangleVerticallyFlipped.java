@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class _28_AlphabetTriangleVerticallyFlipped {
     public static void main(String[] args) {
-        //   *
-//          **
-//         ***
-//        ****
+        //   A
+//          BB
+//         CCC
+//        DDDD
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows : ");
         int n = sc.nextInt();

@@ -11,4 +11,4 @@ public class _05_arguments {
 }//h
 
 // parameters are basically placeholders and arguments are the actual values.
-//here ,    // this (int a, int b) are parameters wh ile 5 , 8 are arguments.
+//here ,    // this (int a, int b) are parameters while 5 , 8 are arguments.

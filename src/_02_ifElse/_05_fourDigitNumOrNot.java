@@ -13,5 +13,14 @@ public class _05_fourDigitNumOrNot {
         else{
             System.out.println("Its not a four digit number.");
         }
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int count = 0;
+//        while(n!=0){
+//            n = n / 10;
+//            count++;
+//        }
+//        if(count==4) System.out.println("yes");
+//        else System.out.println("no");
     }
 }

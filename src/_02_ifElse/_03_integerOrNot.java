@@ -1,7 +1,8 @@
 package _02_ifElse;
 
 import java.util.Scanner;
-
+// To check a number if its an integer or not.
+//(in java 0.00 == 0 )
 public class _03_integerOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

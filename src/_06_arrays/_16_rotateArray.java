@@ -47,3 +47,5 @@ public class _16_rotateArray{
 }
 
 
+//but better approach is using a reverse function in this code
+

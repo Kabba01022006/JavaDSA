@@ -13,8 +13,8 @@ public class _05_arithmeticOperations {
         System.out.println(a + b);
         System.out.println(a - b);
         System.out.println(a * b);
-        System.out.println(a / b); // gives 2 as int/int gives us int.
-        System.out.println(x % y); //modulo(%) gives us remainder.
+        System.out.println(a / b); // gives 2.5 as double/double gives us double.
+        System.out.println(a % b); //modulo(%) gives us remainder.
 
     }
 }

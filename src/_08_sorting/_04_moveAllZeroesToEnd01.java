@@ -1,7 +1,7 @@
 package _08_sorting;
 
 //ques : move all the zeroes to end without changing the order of non-zero elements.
-public class _04_moveAllZeroesToEnd {
+public class _04_moveAllZeroesToEnd01 {
     public static void main(String[] args) {
         int[] arr = {1,0,-2,3,0,4,8,0,10,12};
         int n = arr.length;

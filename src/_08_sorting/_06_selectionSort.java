@@ -1,6 +1,6 @@
 package _08_sorting;
-
-public class _05_selectionSort {
+//selection sort : select the smallest element and swap it with the first element of the subsequent subarray.
+public class _06_selectionSort {
     public static void main(String[] args){
         int[] arr = {8,4,1,9,-3,6,5};
         int n = arr.length ;

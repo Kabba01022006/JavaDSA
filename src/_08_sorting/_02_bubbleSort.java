@@ -30,3 +30,6 @@ public class _02_bubbleSort {
         }
     }
 }
+
+//time complexity of bubble sort is O(n^2)
+

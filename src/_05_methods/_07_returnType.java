@@ -6,7 +6,7 @@ public class _07_returnType {
         System.out.println("hello");
         return 5;           // return basically means khatam
     }
-    public static void main() {
+    public static void main(String[] args) {
         System.out.println(greeting());
 
         //or

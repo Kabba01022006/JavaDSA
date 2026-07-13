@@ -1,6 +1,6 @@
 package _08_sorting;
 
-public class _06_twoSumOptimised {
+public class _08_twoSumOptimised {
     //ques: find both the elements whoose sum == target.(do without O(n^2) appraoch)
     //given that the array is sorted*** IMP , THIS ONLY WORKS FOR SORTED ARRAY
     public static void main(String[] args) {
